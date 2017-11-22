@@ -60,6 +60,8 @@ $ docker inspect --type=volume myvolume
 
 ## Examples
 
+NOTE: To run the following commands in CMD/Powershell, replace single quotes (') with double quotes (")
+
 ### Get an instance's IP address
 
 For the most part, you can pick out any field from the JSON in a fairly
